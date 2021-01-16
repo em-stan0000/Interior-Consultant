@@ -114,3 +114,10 @@ img {
     text-align: left;
   }
 }
+
+footer{
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 23px;
+  padding-top: 130px;
+  text-align: center;
+}
